@@ -1,0 +1,137 @@
+/* *{
+    outline:1px solid red;
+} */
+.container{
+    width:900px;
+    margin:0 auto;
+    padding:10px;
+    background-color:#29131B;
+}
+.header{
+    background-color:#F8F8F8;
+    text-align:center;
+}
+.body{
+    width:800px;
+    height:800px;
+    background-color:#29131B;
+} 
+.header1{
+    margin:10px;
+}
+.body{
+    width:100%;
+  
+}
+.line1{
+    /* height:290px; */
+    background-color:#29131B; 
+    padding:5px;
+    vertical-align: top;
+}
+.line1 img{
+    width:320px;
+    margin:10px;
+    background-color:#898595;
+    padding:10px;
+}
+h2, h4{
+    display:inline-block;
+   
+}
+h2{
+    margin: 0 100px 0 0;
+}
+h4{
+    margin-left:400px;
+}
+
+.content1{
+    width:500px;
+    display:inline-block;
+    vertical-align:top;
+    margin:10px;
+    background-color:#F8F4F7;
+}
+.content1 a{
+    color:black;
+}
+
+p{
+    color:black;
+    background-color:#F8F4F7
+}
+h3{
+    background-color:#898595;
+    vertical-align:top;
+    color:white;
+    display:block;
+}
+.center{
+    background-color:#29131B;
+
+
+}
+.content2{
+    width:250px;
+    display:inline-block;
+    background-color:#F9F5F8;
+    margin:20px;
+}
+.h{
+    vertical-align: top;
+}
+.content2 img{
+    width:250px;
+    vertical-align:top; 
+    margin:0 auto;
+    display:block;
+}
+.content2 p{
+    text-align: center;
+   
+}
+.content2bottom{
+    background-color:#F9F5F8;
+
+}
+.content2bottom img{
+    width:40px;
+    display:inline-block;
+    margin:2px;
+}
+.content2 a{
+    display:block;
+    text-decoration:none;
+    background-color:#258160;
+    color:white;
+    text-align:center;
+    border-radius:10px;
+    margin:20px 50px;
+
+}
+.footer{
+    background-color:#F9F9F9;
+    text-align:center;
+    display:block;
+    height:40px;
+    }
+h5{
+    display:block;
+}
+/* .footer ul{
+    display:inline-block;
+} */
+.footer a{
+    display:inline-block;
+    margin:1px;
+    vertical-align: top;
+    /* color:black; */
+}
+.footer img{
+    width:20px;
+    display:inline-block;
+    /* margin:4px; */
+    vertical-align: top;
+
+}

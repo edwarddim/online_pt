@@ -1,0 +1,37 @@
+/* 
+1. SELECTOR
+2. ATTRIBUTE
+3. PROPERTY 
+*/
+
+*{
+    margin:0;
+    padding:0;
+    /* outline: 1px solid red; */
+}
+#container{
+    width:970px;
+    height:970px;
+    padding:15px;
+    background-color: #1B345D;
+}
+
+#header{
+    padding:10px;
+    background-color: #CF3036;
+    margin-bottom:25px;
+    border-radius: 10px;
+}
+
+#nav{
+    width:200px;
+    background-color: teal;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+#nav ul li{
+    color:white;
+    margin: 5px;
+    list-style-position: inside;
+}
